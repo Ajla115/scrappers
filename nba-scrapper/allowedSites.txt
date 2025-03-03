@@ -1,0 +1,2 @@
+Sites used in this scrapping are declared as allowed:
+1. nba.com/stats
